@@ -23,3 +23,6 @@ A collection of 10 beginner-friendly JavaScript programs to improve problem-solv
 - Loops
 - Nested Loops
 - Problem Solving
+
+## 🤝 Connect With Me
+💼 LinkedIn : [Mohamed Kasim](https://www.linkedin.com/in/mohamedkasim-m/)
